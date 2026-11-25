@@ -65,9 +65,9 @@ The following SaaS and hosted file transfer services are sorted by **Company Siz
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects for offline local network transfers, encrypted terminal beams, continuous folder sync, and browser WebRTC relays, sorted by **GitHub Stars** (descending):
+Curated open-source projects for offline local network transfers, encrypted terminal beams, continuous folder sync, and browser WebRTC relays, sorted by **GitHub_Stars** (descending):
 
-| Project | Stars | Language / Tech Stack | Primary Focus & Capabilities |
+| Project | GitHub_Stars | Language / Tech Stack | Primary Focus & Capabilities |
 | :--- | :---: | :--- | :--- |
 | **[LocalSend](https://github.com/localsend/localsend)** | <a href="https://github.com/localsend/localsend/stargazers"><img src="https://img.shields.io/github/stars/localsend/localsend?style=social&color=white" alt="LocalSend Stars" /></a> | Flutter, Dart | **Cross-platform AirDrop alternative**: Secure, offline REST/HTTPS local network file and message drop across Windows, macOS, Linux, Android, and iOS without third-party servers. |
 | **[Syncthing](https://github.com/syncthing/syncthing)** | <a href="https://github.com/syncthing/syncthing/stargazers"><img src="https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white" alt="Syncthing Stars" /></a> | Go | **Continuous P2P folder synchronization**: Enterprise-grade, decentralized file sync engine with TLS cryptographic authentication, automatic LAN discovery, and conflict resolution. |
@@ -134,7 +134,7 @@ We welcome community suggestions, new software listings, and benchmark correctio
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a feature branch: `git checkout -b add-awesome-tool`.
-3. 📝 Update `README.md` with your suggested project or SaaS platform (please follow the existing table format, provide live links, and include pricing/star counts).
+3. 📝 Update `README.md` with your suggested project or SaaS platform (please follow the existing table format, provide live links, and include pricing/Stars_Counts).
 4. 🚀 Commit your change: `git commit -m "Add <tool-name> to list"`.
 5. 📬 Submit a **Pull Request** detailing why the tool should be included.
 
